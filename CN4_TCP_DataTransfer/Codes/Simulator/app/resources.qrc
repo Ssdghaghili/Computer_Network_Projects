@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/configs/mainConfig">
+        <file>config.json</file>
+        <file>../assets/Taasiaan.mp3</file>
+    </qresource>
+</RCC>
